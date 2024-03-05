@@ -8,10 +8,15 @@ function PreJunior() {
     return (
         <div id={'hw5-page-pre-junior'}>
             {/*pre junior page*/}
-            <HW1 />
-            <HW2 />
-            <HW3 />
-            <HW4 />
+            <hr/>
+            <HW1/>
+            <hr/>
+            <HW2/>
+            <hr/>
+            <HW3/>
+            <hr/>
+            <HW4/>
+            <hr/>
         </div>
     )
 }
